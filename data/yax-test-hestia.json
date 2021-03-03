@@ -1,4 +1,4 @@
 {
 	"title": "hestia test website",
-	"content": "<p>this site was created by <a href=\"https://yax.com/\">yax</a></p>\n<p>It's hosted on <a href=\"https://app.netlify.com/sites/amazing-wiles-f060e7/overview\">netlify </a>who deploys from <a href=\"https://github.com/andreaskundig/yax-test-hestia-netli\">github</a></p>\n<p>It's made editable by <a href=\"https://mavo.io/\">mavo</a></p>\n<p>who stores data in another <a href=\"https://github.com/andreaskundig/yax-test-hestia\">github repo</a></p>"
+	"content": "<p>this site was created by <a href=\"https://yax.com/\">yax</a></p>\n<p>It's hosted on <a href=\"https://app.netlify.com/sites/amazing-wiles-f060e7/overview\">netlify </a>who deploys from <a href=\"https://github.com/andreaskundig/yax-test-hestia-netli\">github</a></p>\n<p>It's made editable by <a href=\"https://mavo.io/\">mavo</a></p>\n<p>who stores data in another <a href=\"https://github.com/andreaskundig/yax-test-hestia\">github repo</a></p>\n<p>coucou</p>"
 }
